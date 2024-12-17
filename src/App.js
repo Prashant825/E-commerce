@@ -16,12 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React    
-          {/* this is prashant  */}
+          Learn React   
         </a>
         <Button  variant="contained" color='info'>Hello React</Button>
       </header>
-      
     </div>
   );
 }
